@@ -5,7 +5,7 @@ function SocialLink() {
     <div className="social-wrapper">
       <a
         className="social-button"
-        href="https://google.com"
+        href="https://github.com/DanielPrzC/movieSearchApp"
         target="_blank"
         rel="noreferrer noopener"
         style={{ textDecoration: "none" }}
